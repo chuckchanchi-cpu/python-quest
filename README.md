@@ -1,24 +1,31 @@
-# 🐍 Python Quest
+# 🐍 Python Quest + 📝 中文練習
 
-Learn Python by playing games! Designed for Primary 6 students (age 11-12).
+Learning apps for Primary 6 students.
 
-## Games Included
+## Apps
 
-| Level | Game | What You'll Learn |
-|-------|------|-------------------|
-| 🎯 1 | Guess the Number | Variables, Input, Loops |
-| 📝 2 | Python Quiz | Lists, Functions, Print |
-| 🔧 3 | Code Builder | Code Order, Syntax |
-| 🐛 4 | Bug Hunter | Debugging, Errors |
-| 🎨 5 | Pattern Designer | Turtle Graphics, Loops |
+### 🐍 Python Quest
+Learn Python by playing games!
+- 🎯 Guess the Number
+- 📝 Python Quiz (with AI explanations)
+- 🔧 Code Builder
+- 🐛 Bug Hunter
+- 🎨 Pattern Designer
+- 🤖 AI Helper (ask anything!)
 
-## How to Play Online
-
-Visit: [Play Python Quest](https://python-quest.streamlit.app)
+### 📝 中文練習 — 襯托手法
+Learn Chinese writing techniques:
+- 📖 Knowledge points (正襯 vs 反襯)
+- 📝 Lincoln passage analysis
+- ✍️ Practice exercises
+- 🎮 Challenge mode (write your own!)
 
 ## How to Run Locally
 
 ```bash
-pip install streamlit
+# Python Quest
 streamlit run app.py
+
+# Chinese Practice
+streamlit run chinese_chentuo.py
 ```
